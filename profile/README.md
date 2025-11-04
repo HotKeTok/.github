@@ -73,9 +73,6 @@ Hotketok은 법적 규제 사각지대에 놓여있던 다가구 주택 관리�
 
 ---
 
-## 🎥 Prototype Demo
-
-
 ## 👥 The Team
 
 |  |  |  |  |  |
