@@ -1,4 +1,5 @@
 # 🚀 핫케톡: Housing Care Total Service
+**[🏆 제 9회 개방형 클라우드 플랫폼(K-PaaS)활용 공모전 서비스 개발 부문 동상(숭실대총장상) 수상작]**
 
 **Target: Digitizing Multi-Family Housing Management. (다가구 주택 관리 디지털화)**
 
